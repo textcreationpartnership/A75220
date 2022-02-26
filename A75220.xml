@@ -1,0 +1,441 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Astrological observations and predictions for the year of our Lord 1682. Wherein are briefly shewn, the significations of the late comet, (which appeared most manifestly to us in December 1680.) And of the two great eclipses of the moon ... : also monthly observations for every month this present year. Briefly containing the most remarkable events that are likely to happen in some nations, kingdoms, and cities / by John Silvester.</title>
+            <author>Silvester, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75220</idno>
+            <idno type="STC">Wing A2387A</idno>
+            <idno type="STC">ESTC R225574</idno>
+            <idno type="EEBO-CITATION">45789134</idno>
+            <idno type="OCLC">ocm 45789134</idno>
+            <idno type="VID">172448</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75220)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172448)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2630:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Astrological observations and predictions for the year of our Lord 1682. Wherein are briefly shewn, the significations of the late comet, (which appeared most manifestly to us in December 1680.) And of the two great eclipses of the moon ... : also monthly observations for every month this present year. Briefly containing the most remarkable events that are likely to happen in some nations, kingdoms, and cities / by John Silvester.</title>
+                  <author>Silvester, John, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: 1682.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English.</term>
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172448:1" rendition="simple:additions"/>
+            <p>1682 Aſtrological Obſervations AND Predictions for the Year of our Lord 1682. Wherein are briefly ſhewn, the ſignifications of the late COMET, (which appeared moſt manifeſtly to us in <hi>December</hi> 1680.) And of the two great Eclipſes of the Moon. AND What Eminent Changes, and Sorrowful Events are likely to happen in many (if not moſt) Countries in the world, from the In<g ref="char:EOLhyphen"/>fluences of the Three Conjunctions of <hi>Saturne</hi> and <hi>Jupiter</hi> (in the fiery ſign <hi>Leo</hi>) in 1682, and 1683. ALSO Monthly Obſervations For every Month this preſent year. Briefly containing the moſt Remarkable Events that are likely to happen in ſome Nations, Kingdoms, and Cities.</p>
+            <p>By <hi>John Silvester.</hi>
+            </p>
+            <p>Printed for the Author, 1682,</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172448:2"/>
+            <pb n="1" facs="tcp:172448:2"/>
+            <head>For the year 1682.</head>
+            <div type="observation">
+               <head>
+                  <hi>Of the late</hi> Comet <hi>that was ſeen in</hi> December 1680.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HIS dreadful Comet (the like whereof (I ſuppoſe) was never ſeen by many (if any) generation before us) that appeared moſt manifeſtly in <hi>England</hi> in <hi>December</hi> 1680. Seemed (when I firſt ſaw it) to ſhew it ſelf about the begining of the ſecond face of <hi>Capricorn,</hi> between the bodies of the <hi>Sun</hi> and the Planet <hi>Mercu<g ref="char:EOLhyphen"/>ry,</hi> and near the oppoſite place of <hi>Saturn;</hi> but I received advice from a friend of mine, that this Comets firſt appearance was in the watry ſign <hi>Scorpio,</hi> the houſe of the fiery Plannet <hi>Mars;</hi> and that it was ſeen before the ſun riſing, on the 25th of <hi>November,</hi> at ſix of the clock in the morning: But in what ſign ſoever it had its begining or birth, it was obſerved to appear in a ſign of every Triplicity, which certainly denotes varieties of evils, diſtinguiſhed ſufficiently in my laſt years little book, to which I referr'd the Reader; but whereas it appeared moſt powerfully to us in <hi>Capricorn</hi> and <hi>Aquaries,</hi> and more weakly in <hi>Piſſes;</hi> (and <hi>Aries</hi> the aſſendant of <hi>England</hi> and <hi>France,</hi> where it was ſuppoſed to have been extinguiſht) therefore thoſe places under <hi>Capricorn</hi> and <hi>A<g ref="char:EOLhyphen"/>quaries</hi> will be ſubject to the moſt woful effects; never the leſſe, I fear thoſe places under <hi>Aries</hi> will be ſubject to afflictions, that will be bad enough, for though it appeared very weakly therein, yet it is pro<g ref="char:EOLhyphen"/>bable enough, that it appeared very powerful and dreadful in many other Countries under <hi>Aries,</hi> as well as in <hi>England,</hi> at that time when we beheld it in <hi>Capricorn</hi> and <hi>Aquaries,</hi> for Comets do not only ma<g ref="char:EOLhyphen"/>nifeſt their effects in thoſe Countries, under the ſigns wherein they ap<g ref="char:EOLhyphen"/>peared,
+<pb n="2" facs="tcp:172448:3"/>
+but alſo in thoſe Countries where they appeared moſt dread<g ref="char:EOLhyphen"/>full and moſt viſible, and therefore it may be feared that the effects of this dreadful Comet, appertaines to many forreign Countries, and that God is preparing woes fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many Nations, if not for moſt nations in the World. And whereas the Tayl of this Comet was very long, and the time of its continuance alſo long, it denotes the ſtrength and pow<g ref="char:EOLhyphen"/>erfulneſs of its operation (and by conſequence the more dreadfulneſſe of the effects) and the durability thereof, which will ſhortly be ſeconded, and the effects thereof continued, by the powerful operations of no leſs then three conjunctions of <hi>Saturne</hi> and <hi>Jubiter</hi> in the fiery ſign <hi>Leo;</hi> and as this Comet was ſwift in motion, and run through many ſigns, ſo it may be feared that the influence thereof will ſeem alſo by its effects to be ſwift in motion, from one Countrey to an other; and whereas the Star it ſelf (or Comets body) ſeemed to be very ſmall, that it <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uld not (firſt eſpeaſily) be eaſily diſerned, and a very dreadful and viſible ſtream or Tayl iſſued from it, from hence it may (not groundleſſly) be conjectu<g ref="char:EOLhyphen"/>red that there will be many ſecret and cloſe conſpiraces and contrivan<g ref="char:EOLhyphen"/>ces in many Countries, out of which there will go very viſible ſtreams of wrathfull furious wicked and treaterous actions, (or more plainly ſuch effects from the violent breaking forth of ſome Plot or Plots) I have heard reports of other Comets that have been ſeen, but I have not ſeen them my ſelf, but I received intelligence from a friend of mine that on Thurſday the 24 day of <hi>March</hi> 1681 about eleven of the clock at night, there were ſeen in their town by divers Perſons of good credit two dreadful Meteors, near the Moon, by their declaring the one in <hi>Virgo,</hi> be<g ref="char:EOLhyphen"/>fore the Moon, the other in <hi>Scorpio,</hi> following the Moon, which Meteors much terrified &amp; affrighted the ſpectatours. Comets and fiery Meteros are tokens of many hot and dry exhalations in the aire, which ſo dry up the humours in men, and increaſe cholor that they are eaſily ſtirred up to quarrels, after which follows blows, warrs and bloudſhed, and conſe<g ref="char:EOLhyphen"/>quently alterations of Laws and Cuſtoms in many places.</p>
+               <lg>
+                  <l>
+                     <hi>Comets are dreadful objects to mens eies,</hi>
+                  </l>
+                  <l>
+                     <hi>Gods angry Warnings, heavenly rarities,</hi>
+                  </l>
+                  <l>
+                     <hi>That ſtill proclaime Gods wrath, ſome Kingdomes w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi>
+                  </l>
+                  <l>
+                     <hi>Plagues, or great Sickneſs, bloudy Warres alſo.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="prognostication">
+               <pb n="3" facs="tcp:172448:3"/>
+               <head>Of the ſignification of the two great Eclipſes of the Moon in <hi>February</hi> and <hi>Auguſt</hi> in the year 1682.</head>
+               <p>THe firſt great Eclipſe of the Moon will be on the Eleventh day of <hi>February</hi> about Eleven at night: Which denotes croſſes, loſſes, and ſickneſs to happen to Saylors, Merchants, Scribes, Students, and many Noble men, and that many ſuch will be in danger of being oppreſſ<g ref="char:EOLhyphen"/>ed ſome way by the wrath of Princes: It denotes ſome kind of hurt to the fruits of the Earth, and to Corn, and I doubt it will cauſe many diſ<g ref="char:EOLhyphen"/>cords amongſt men, and many diſtempers of the brain, if not abſolute madneſs: It allſo denotes turbulant and pernitious winds, and much thunder, and lightning, and ſome more then ordinary ſtir about Reli<g ref="char:EOLhyphen"/>gion. Its effects will cheifly be manifeſt in the countries and places un<g ref="char:EOLhyphen"/>der <hi>
+                     <g ref="char:V">Ʋ</g>irgo, Piſſes, Sagittarius</hi> (and <hi>Gemini</hi> the aſcendant of <hi>London</hi>) and (according to the oppinion of the Antients) it will manifeſtly operate in <hi>July</hi> and ſo continue for about four months.</p>
+               <p>THe ſecond great Eclipſe of the Moon will happen on the Eight day of <hi>Auguſt,</hi> about Six in the morning (but inviſible to us:) This threatens the Earths Inhabitants either with the Plague, or ſome very dangerous and deſtructive ſickneſſes, and mortality, and with ſcarcity or dearneſs of Corn. It denotes the ruine of Ancient Buildings, Diviſions, and hatred amongſt Profeſſors of Religion: Impriſonment and Captivity: Great variances and diſunity in Councils, high winds and Tempeſts at ſea, dangerous ſailing. It denotes deſtruction to Fiſhes, and to ſmall Cat<g ref="char:EOLhyphen"/>tle, (it hath a wofull ſignification, whether people will believe or not:) it may cauſe madneſſe or ſome very bad diſtempers in the brain. It alſo denotes the overflowing of Rivers: it very much threatens <hi>Samaria, Ethiopia, Italy, Sicily, Bohemia</hi> and ſome part of <hi>Turky, Hamborrough, Rome, Prague, Briſtol</hi>— and in a leſſe meaſure <hi>Ireland, Ruſſia, Perſia, Cappadocia, Barbary Frankford upon Odar, Valentia</hi> in <hi>Spain;</hi> But (according to <hi>Aſtrologicall</hi> rules) it will not very manifeſtly operate till about the month of <hi>July</hi> 1683 and from thence will ſo continue a<g ref="char:EOLhyphen"/>bout four months.</p>
+               <lg>
+                  <l>
+                     <hi>Sorrows attend the world, when 'clipſes great,</hi>
+                  </l>
+                  <l>
+                     <hi>With many rare conjunctions opperate,</hi>
+                  </l>
+                  <l>
+                     <hi>With Comets too whoſe ſtrange united force,</hi>
+                  </l>
+                  <l>
+                     <hi>May make unſetl'ed times yet worſe and worſe.</hi>
+                  </l>
+                  <l>
+                     <hi>Let's all lament, repent, and pray that we</hi>
+                  </l>
+                  <l>
+                     <hi>May ſcape dearth, warrs and plague, in eighty three,</hi>
+                  </l>
+               </lg>
+               <l>And alſo in eighty four,</l>
+               <p>
+                  <pb n="4" facs="tcp:172448:4"/>
+But in the world there are many unbelieving people, and ignorant enemies of Aſtrological Predictions, that think I have too much affrighted the nation, by my judgment in my other <hi>little book,</hi> and per<g ref="char:EOLhyphen"/>haps, may think I have done the like now, and ſo will not believe that God hath given ſuch power to <hi>Stars, Planets, Comets,</hi> or any Heavenly bo<g ref="char:EOLhyphen"/>dies to cauſe thoſe effects on earth, but rather (through their ignorance) think that God uſualy cauſeth moſt effects without them: but let them conſider the Moon, and how God is pleaſed to tumble about the waters thereby, and not without the Moon: and let them conſider the Sun, and how God thereby cauſeth the earth and trees to bring forth there increaſe and fruit thereof, and not without the Sun; and as it hath pleaſed God to ſet the two great lights of Heaven in offices, very manifeſt to the world; in like manner he was pleaſed to give all the other Planets, and leſſer Lights of Heaven; offices and power, (when the firſt treated them) according to their natures, to effect his will and purpoſe on Earth: Moreover God that made all things, can at his pleaſure, make uſe of all other his crea<g ref="char:EOLhyphen"/>tures, ſo that he will not be confined, to work only by the Starres, or only ſecretly and internally by his ſpirit, but what other wayes he pleaſ<g ref="char:EOLhyphen"/>eth, ſo that the <hi>Maker of all,</hi> works, in and by all, and is therefore God over all, and is worthy of all praiſe, honour, and worſhip from all. There<g ref="char:EOLhyphen"/>fore it is no diſhonour to God, to ſay he cauſeth effects on Earth by <hi>Stars</hi> above, but they rather rob their Maker of his Glory, that contend againſt this Sublime and Heavenly Science; as if it were unlawfull for us to lift up our eyes to the Heavens, that declare the Glory of God, and to the Firmament (wherein are fixed ſo many glittering and glorius Orna<g ref="char:EOLhyphen"/>ments) that ſheweth his handy work. But there are <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iverſities of natural gifts, And therefore to one it is given to know thoſe things above ano<g ref="char:EOLhyphen"/>ther: <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd further, to convince thoſe unbelievers of the truth, and cer<g ref="char:EOLhyphen"/>tainty of the Influences of all Celeſtial bodies, let them look back to the year 1664 wherein there appeared a Comet, and to the year 1663, where there happened a great Conjunction of <hi>Saturne</hi> and <hi>Jupiter,</hi> in the fiery ſign <hi>Sagittarius,</hi> and to the year 1659, when the fourteenth revolution of the great Orb ſince the Creation was per<g ref="char:EOLhyphen"/>fected: I ſay, let them look back and conſider if ſince thoſe <hi>yeares</hi> there have not happened very remarkable Terreſtrial Changes, and wonderfull Events according to the rules of (and conſeqently promotive to) the rare, and highly to be eſteemed Science of Aſtrology</p>
+               <lg>
+                  <l>
+                     <hi>The Loadſtone's ſecret vertue can command,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſtrangely turn the Needle to each hand:</hi>
+                  </l>
+                  <l>
+                     <hi>So ev'ry creature, that hath life and ſenſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Is govern'd by the ſtarry influence.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="prognostication">
+               <pb n="5" facs="tcp:172448:4"/>
+               <head>
+                  <hi>Of the Three Conjunctions of</hi> Saturn <hi>and</hi> Jupiter <hi>in the fiery ſign</hi> Leo <hi>now near at hand; whereof one will happen on the</hi> 9<hi rend="sup">th</hi> 
+                  <hi>day of</hi> October 1682. <hi>and one, on the</hi> 30<hi rend="sup">th</hi> 
+                  <hi>of</hi> January <hi>following, &amp; the laſt, on the</hi> 2<hi rend="sup">d</hi> 
+                  <hi>day of</hi> May <hi>following.</hi>
+               </head>
+               <p>It is both rare and wonderfull that thoſe Two ſuperiour Planets ſhould be no leſſe than three times conjoyned (in ſomewhat leſſe than ſeven Months) in the fiery ſign <hi>Leo;</hi> there having been but only one Con<g ref="char:EOLhyphen"/>junction there above theſe 700 yeares. And therefore thoſe Three Conjunctions proclaim a threefold woe to the Inhabitants of the Earth, (though many may not believe it;) but cheifly to the Countrys, Cityes, Townes, Villages, and Perſons, under the ſign <hi>Leo:</hi> Therefore wo, wo, and a third wo, to <hi>Italy, Sicily, Bohemia</hi> and ſome part of <hi>Turky,</hi> to the City of <hi>Damaſcus,</hi> and chiefly to the City of <hi>Rome,</hi> the fountain of <hi>Po<g ref="char:EOLhyphen"/>pery, follie</hi> and <hi>wickedneſſe,</hi> for thoſe Conjunctions that happen in the fi<g ref="char:EOLhyphen"/>ery <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rigon,</hi> do chiefly reſpect Men, Matters, and Places of the higheſt account; (the Pope, Popery, and <hi>Rome</hi> have too long been ſo) that I con<g ref="char:EOLhyphen"/>clude this Triple, or Threefold Conjunction in <hi>Leo</hi> (the aſcendant of <hi>Rome</hi> and all <hi>Italy</hi>) will in a few yeares either ſtrike of his Triple Crown, or give him three terrible ſtrokes, whereby he will looſe the greateſt part of his Honour, Power, and Majeſty on earth, for the ſtrokes will be the more dreadfull, becauſe of the Two other Conjunctions, <hi>viz.</hi> of <hi>Jupiter</hi> and <hi>Mars:</hi> and <hi>Saturn</hi> and <hi>Mars,</hi> in the ſame ſign <hi>Leo,</hi> near the degree of the firſt Conjunction of <hi>Saturn</hi> and <hi>Jupiter: Jupiter</hi> is too ver<g ref="char:EOLhyphen"/>tuous a Planet to own the <hi>Pope,</hi> or his Orders, but it being more natural to him to own good Chriſtians, he hath aſſigned the <hi>Pope</hi> up to <hi>Saturn,</hi> the Author of Plots and miſchief: and <hi>Saturn</hi> being weaker than <hi>Jupiter</hi> in the conflict (for they'l have a Combat when they are in Conjunction becauſe of the contrariety of their natures, <hi>Saturn</hi> being cold and dry, and the greateſt infortune, and <hi>Jupiter</hi> being hot and moiſt, and the greateſt fortne) therefore the <hi>Pope</hi> and his Orders, in a few years, muſt needs have a great Downfal; for <hi>Jupiter</hi> is not only ſtronger than <hi>Saturn,</hi> but is reſolved to fight with his adverſary, three times, in ſomewhat leſſe than ſeaven Months, with the undaunted courage of a Lyon. Oh <hi>Rome</hi> thy abominations have been <hi>Great,</hi> and thy <hi>Great</hi> ſinnes remaihſt which thy <hi>Great</hi> head (the <hi>Pope;</hi>) hath to the <hi>Great</hi> diſhonour ofned <hi>Great</hi> God undertook to pardon; But now the <hi>Great</hi> year is at hand, and thy <hi>Great</hi> ſorrowes are approaching, and thy foundation will <hi>Greatly</hi> be ſhaken, becauſe it is not the Rock of Ages, the ſure foundation; <hi>Great</hi> Judgments are preparing for thee: Never yet (I ſuppoſe) received
+<pb n="4" facs="tcp:172448:5"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:172448:5"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:172448:6"/>
+thou ſuch terrible ſtrokes (Since thou waſt firſt called <hi>Rome</hi>) as thoſe (in few years) are like to be. <hi>Quamobrem gaudeamus &amp; maxime laetemur:</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>God hath not made Celeſtial works in vain,</hi>
+                  </l>
+                  <l>
+                     <hi>But in them pow'r and vertue great remain:</hi>
+                  </l>
+                  <l>
+                     <hi>They cauſe effects on earth, by them we know</hi>
+                  </l>
+                  <l>
+                     <hi>That God is working changes here below.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="prognostication">
+               <head>Of the Lord of the year</head>
+               <p>
+                  <hi>Saturn</hi> laies claim to be Lord of the year, becauſe he hath the greateſt Dignities in the Hylegiacal places of the three Vernal figures, and he and the Moon are both in the <hi>Lyon,</hi> in an Angle of ſtrife (the houſe of war) and his Lord is with the body of <hi>Mars,</hi> partly through which, and partly through the great Dignities that <hi>Mars</hi> hath in the Hylegiacal places of the Vernal figure, we may joyn him as a Copartner with <hi>Sa<g ref="char:EOLhyphen"/>turn:</hi> the Angles being alſo more fixt than Moveable, that ſtrong ſtedfaſt (and not much whiffling) will the reſolutions of many diſcontented Martial minded perſons be, to carry on weighty (but wicked) deſignes; that this is likely enough to be a year of evil conſpiracies and of great diſunity, and rather of Martial activity than of droniſhneſſe, and the bet<g ref="char:EOLhyphen"/>ter to ſatisfy all friendly Readers I referre them to my Monthly Obſer<g ref="char:EOLhyphen"/>vations following</p>
+            </div>
+            <div type="prognostications">
+               <head>
+                  <hi>Monthly Obſervations, breifly containing the moſt re<g ref="char:EOLhyphen"/>markable events and accidents that are likely to hap<g ref="char:EOLhyphen"/>pen in every particular Month this preſent year</hi> 1682.</head>
+               <div n="January" type="month">
+                  <head>Ianuary's <hi>Obſervations</hi>
+                  </head>
+                  <p>
+                     <hi>THe hearts of the Comonaltie now entertain much hatred and enmity a<g ref="char:EOLhyphen"/>gainſt ſome perſons in Authority: ſome of whom act very politickly, &amp; ſecretly againſt them, as if they aimed at ſome further treacherous actions: that it is yet improper to call this a month of compleat unity: Rulers and Ma<g ref="char:EOLhyphen"/>giſtrates of many Countries and Cities can hardly keep in any ſound unity a<g ref="char:EOLhyphen"/>mongſt themſelves: ſome great controverſies now happen in</hi> Rome <hi>and in ma<g ref="char:EOLhyphen"/>ny other places under the fiery ſign</hi> Leo, <hi>amongſt perſons both of mean and</hi>
+                     <pb n="7" facs="tcp:172448:6"/>
+                     <hi>great account: many are now impriſoned:</hi> Scotland <hi>and</hi> Holland <hi>will now be more at peace than many other places; and pretty good unity is likely to be in their Councills; yet I fear ſome imperfection through ſome religious diſputes (not very contentious) amongſt ſome of different religions: dangerous di<g ref="char:EOLhyphen"/>ſtempers amongſt Cattle great and ſmall: ſome alteration of weather about the</hi> 12, <hi>or</hi> 13 <hi>day.</hi>
+                  </p>
+                  <lg>
+                     <l>When ſtarrs diſſent in heav'n, on earth they ſow,</l>
+                     <l>Contentious ſeeds in humane hearts below:</l>
+                     <l>That God by them our comforts would increaſe!</l>
+                     <l>Baniſh our woes, proclaime Celeſtial peace!</l>
+                  </lg>
+               </div>
+               <div n="February" type="month">
+                  <head>Febuary's <hi>Obſervations</hi>
+                  </head>
+                  <p>
+                     <hi>MUch hatred, trouble, and diſcontent, remains in peoples minds concerning ſome late difference, and one domineers over another eſpecially in thoſe Countries Cities and Places under the fiery ſign</hi> Leo: <hi>Let us beware of The<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>veries, and breaking open of ſhops, and houſes, and all private miſchievous acti<g ref="char:EOLhyphen"/>ons; I confeſſe many benevolent Aſpects happen this month, but all is not Gold that gliſters: Magiſtrates are now angry with ſome religious Profeſſors: Seamen now much perplexed with high winds and toſsing weaves: Diſeaſes of Melancholy now chiefly take poſſeſſion of mens bodies at the beginning of this month, and diſeaſes of Choler at the latter end: a probability of rain or ſnow, on, or about, the</hi> 9, 22, <hi>or</hi> 23 <hi>day.</hi>
+                  </p>
+                  <lg>
+                     <l>The ſmiling looks of wand'ring ſtarrs above,</l>
+                     <l>Incline our hearts the more to peace and love;</l>
+                     <l>But there's a ſeed that will ariſe I doubt</l>
+                     <l>And turn unſtable love to faling out.</l>
+                  </lg>
+               </div>
+               <div n="March" type="month">
+                  <head>March's <hi>Obſervations</hi>
+                  </head>
+                  <p>
+                     <hi>THe hearts of the Comonalty are none pretty much linked to Superiours, but I doubt the hearts of Superiours will not be ſo well linkt to each other: The Comonalty of many places will be verl apt to be contentious amongſt them<g ref="char:EOLhyphen"/>ſelves that this is likely to be a month of remarkable debate and variances, not only in</hi> En. <hi>and</hi> France, <hi>but in man other Countries and places, that it is very improper to call this a month of peace; though I could wiſh it were eſtabliſhed throughout all the Earth: The</hi> London <hi>Apprentices are now very Couragious and high ſpirited, and will be very apt to give affronts: this month or the next Magiſtrates will have inclinations to oppreſſe ſome ſort of Meeters: many ſuffer by impriſonment, if not by Iron chains alſo; eſpecially at</hi> London: <hi>danger of ſome robberies and theeveries. This month ends; or the next begins with</hi>
+                     <pb n="8" facs="tcp:172448:7"/>
+                     <hi>come remarkable conſultations: much ſickneſſe: much rain and wind, about the</hi> 23 <hi>day, and at the months end.</hi>
+                  </p>
+                  <lg>
+                     <l>What hurly burly's this in heav'n, that I,</l>
+                     <l>No leſſe than Planets Five in <hi>Aries</hi> ſpy.</l>
+                     <l>
+                        <hi>Lucina</hi> changes in that high degree,</l>
+                     <l>Where Kingly <hi>Sol</hi> will ſtill exalted be.</l>
+                  </lg>
+               </div>
+               <div n="April" type="month">
+                  <head>April's <hi>Obſervations.</hi>
+                  </head>
+                  <p>
+                     <hi>GReat conſultations, variances in Councells: tumultuous contriverſies in many places: much policy in men's brains, and great conrage in many hearts: Rulers or Magistrates ſome way diſpleaſed by ſome ſort of religious Profeſſors, whence enſue hot and angry diſputes and ſharp words: a little danger, of ſome disturbance in</hi> Ireland: <hi>ſome common perſons promoted, or raiſed unto ſome higher degree, or pretty high offices, others dejected: Cattle (eſpecially the ſmaller ſort) now very ſubject to diſeaſes and diſtempers: Cloſe, ſecret, and very private ſtealing: people will now either be ſubject to madneſſe or ſome kind of frantick fits: many ſuffer puniſhment by the</hi> French <hi>diſeaſe</hi> (ergo cavete <hi>&amp;</hi> abſtinete qui amatis valitudines) <hi>a ſickly ſeaſon: much rain during the first half of this month, or till the</hi> 20 <hi>day.</hi>
+                  </p>
+                  <lg>
+                     <l>When <hi>Sol</hi> and <hi>Luna</hi> both together move,</l>
+                     <l>And are conjoyn'd in heav'nly Orbs above,</l>
+                     <l>'Tis rare to ſee Five Planets of the Seven</l>
+                     <l>Parling and jarring in the midſt of heav'n.</l>
+                  </lg>
+               </div>
+               <div n="May" type="month">
+                  <head>May's <hi>Obſervations</hi>
+                  </head>
+                  <p>
+                     <hi>THe thoughts of ſome late quarrel yet remaine in many hearts, who being but ſubjects are now ſo high and lofty ſpirited and couragious, that they even ſcorn to be trodden by thoſe of higher degree: I am afraid this will prove ahmonth of very great controverſies in many places eſpecially in</hi> Br— <hi>and ce places under</hi> Leo: <hi>all is not well in</hi> Ireland: <hi>let us beware of all cloſe <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ontrivances and treacherous actions which are now much to feared: let</hi> Br— <hi>beware of fire and all evill events: very great contentions ariſe in bargaining and between men and their wives: very dangerous ſickneſſes, hard and very difficult to be cured now ſceiz on the bodies of men, and it will ſtrike hard ta the heart and head: much rain on or about the</hi> 16 <hi>day, and the</hi> 29 <hi>or</hi> 30.</p>
+                  <lg>
+                     <l>Next Month (I deem) will ſhew's the reaſon why,</l>
+                     <l>Five Planets now conſult in <hi>Gemini.</hi>
+                     </l>
+                     <l>They parle, and with great fury are poſſeſt,</l>
+                     <l>And if ſome paſt debate's yet in the breaſt</l>
+                  </lg>
+               </div>
+               <div n="June" type="month">
+                  <pb n="9" facs="tcp:172448:7"/>
+                  <head>Iune's <hi>Obſervations.</hi>
+                  </head>
+                  <p>I <hi>Confeſſe the two fortunes are now both in</hi> Cancer, <hi>which may well be ſuppoſed to be a good preſervative to</hi> Scotland <hi>and</hi> Holland: <hi>but about the beginning, and latter end, great variances in many places may be feared: I doubt the latter end of this moneth, or ſome part of the next, will prove a ſeaſon of ſome evill activity; that ſome Plot and treacherous diſign may very ſecretly and politick<g ref="char:EOLhyphen"/>ly be carried on in the City of</hi> London, <hi>againſt the Rulers and Supream Power of the Nation; let the places under</hi> Gemini <hi>and</hi> Leo <hi>chiefly beware of all evill events. Let none be offended at my good counſell; forewarned, half armed: ma<g ref="char:EOLhyphen"/>ny theeveries and robberies happen this moneth and dangerous ſickneſſes ſeiz on the bodies of people: raine about the</hi> 12 <hi>or</hi> 13 <hi>day, and about the</hi> 26, <hi>or</hi> 27, <hi>day: a probabilty of thunder about the</hi> 8, <hi>and</hi> 23 <hi>day.</hi>
+                  </p>
+                  <lg>
+                     <l>Great ſecrets are in heav'nly ſheets enroll'd,</l>
+                     <l>And I the ſecrets of the heav'ns unfold;</l>
+                     <l>Thoſe heav'nly words of Starry letters made,</l>
+                     <l>I now Tranſlate, that every one may read.</l>
+                  </lg>
+               </div>
+               <div n="July" type="month">
+                  <head>Iuly's <hi>Obſervations.</hi>
+                  </head>
+                  <p>
+                     <hi>MIſchieveous intents poſſeſſe the hearts of many: great envy reignes and rules with great ſubitlty, policy and ſecrey in the hearts of ſome pre<g ref="char:EOLhyphen"/>tended ſubjects, whoſe aimes are to effect their evil deſigns, againſt the Powers and Rulers, which they ought to be ſubmiſſive unto: very great variances a<g ref="char:EOLhyphen"/>mongſt high and low: great wrath and fury, and great diſturbances in many places, eſpecially in thoſe Countries, Cities, and Places, under the ſignes</hi> Gemi<g ref="char:EOLhyphen"/>ni, Sagittarius, Leo, <hi>and</hi> Aquarius: <hi>Let</hi> London <hi>beware of ſome Plot:</hi> Holland <hi>and</hi> Scotland <hi>are ſome what diſquieted. I doe not poſſitively couclude that this great wrath will produce warrs or battles this moneth, though it may be feared yet I rather believe the matter is not yet ripe enough but however the ripening time is at hand, and the next year drawes nigh, without doubt warrs and great diſturbances amongſt many Nations are near: The great Eclipſe of the Moon in</hi> February <hi>begins now manifeſtly to operate: The moneth is like to prove extream ſickly, abundance dye: a probability of Rain on or about the</hi> 10 <hi>day, and the</hi> 23, <hi>and</hi> 24, <hi>and the likelieſt days for thunder and lightning are the</hi> 7, 14, <hi>and</hi> 22 <hi>day, if not raine withall.</hi>
+                  </p>
+                  <lg>
+                     <l>When Kingly <hi>Sol</hi> to <hi>Saturn</hi> comes; the Moon</l>
+                     <l>Comes quickly to him too; but then to ſoon</l>
+                     <pb n="10" facs="tcp:172448:8"/>
+                     <l>She haſtens to the diſcontented <hi>Sun</hi>
+                     </l>
+                     <l>And from him with <hi>Saturnine</hi> light doth run</l>
+                  </lg>
+               </div>
+               <div n="August" type="month">
+                  <head>Auguſt's <hi>Obſervations</hi>
+                  </head>
+                  <p>
+                     <hi>THe Comonalty now ſigh for quiet times and mightily deſire peace but at the latter end of the month (and I doubt in the next month alſo) very terrible actions and tumultuous controverſies and great wrath (if not worſe) are likely to be the ſad events thereof, which I greatly fear will be car<g ref="char:EOLhyphen"/>ried on with very great ſubtilty and with cloſe and ſecret conſpiracies: what Plots and miſchievous deſignes are now in our daies in the hearts of men! it is no Joy to me that I cannot bring tidings of peace: great variances, diviſions and diſtractions in ſome part of</hi> 
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urky, <hi>in</hi> Bohemia, <hi>in</hi> Italy, <hi>eſpecially at</hi> Rome, <hi>many quarells in the Cities of</hi> Br— <hi>and</hi> O— <hi>many leagues and friendſhips broken: ſo that the latter end of this month, and I doubt the next month to, (chiefly in the places aforeſaid) will prove time of much action and conſultation, and great controverſies amongſt high and low: differences in Councills and amongſt Superiours in</hi> Scotland <hi>and</hi> Holland: <hi>this month man great robberies: terrible ſtrife betwixt men and thier wives: dangerous ſea voyage: an extream ſickly ſeaſon, abundance die, I mean at the letter end of the month schiefly, and at the beginning of the next: likel hood of ſome thunder and lightning with rain about the</hi> 5, 6, <hi>or</hi> 7, <hi>day, alſo rain on, or about, the</hi> 21 <hi>day, and the</hi> 27, <hi>and</hi> 28 <hi>da.</hi>
+                  </p>
+                  <lg>
+                     <l>Tour Planets in the <hi>Lyon</hi> fierce conſpire:</l>
+                     <l>Why they'l aſſociate in the weſterne angle,</l>
+                     <l>The houſe of ſtrife where Planets beſt can wrangle</l>
+                  </lg>
+               </div>
+               <div n="September" type="month">
+                  <head>September's <hi>Obſervations</hi>
+                  </head>
+                  <p>I <hi>Cannot yet find the tokens of a peaceable ſeaſon, but rather of great deſunity and controverſies amongſt high and low this month (and I doubt the next to) and they are both likely to prove months of remark able actions and events, and turbulent doings: this month there happens one Conjunction of</hi> Jupiter <hi>and</hi> Mars, <hi>and another conjunction of the two unfortunate Planets</hi> Saturn <hi>and</hi> Mars, <hi>and therefore I cannot but believe that tumultuous controverſies (if not worſe effects) will attend many Nations, Cities, and places: I doubt the L— Apprentices will be reſolute for ſome Martial activity this month or the next</hi>
+                     <pb n="11" facs="tcp:172448:8"/>
+                     <hi>alſo it will not be amiſſe for</hi> London <hi>chiefly to be ſome what wary of fire this month or the next: we may expect abundance of rain, wind, and bluſtring weather this month, and it chiefly happens on or about</hi> 3, 7, 10, 11, 12, 13, 14, 17, 18, 19, 20, 26, 30, <hi>daies ſo that we are like to have turbulent wea<g ref="char:EOLhyphen"/>ther moſt part of this moneth.</hi>
+                  </p>
+                  <lg>
+                     <l>Juſt as bright <hi>Sol</hi> the ſpring of glorious light,</l>
+                     <l>Doth equallize and ballance day and night.</l>
+                     <l>The three Superious in the heav'ns contend,</l>
+                     <l>And darts of fury to great pow'rs do ſend.</l>
+                  </lg>
+               </div>
+               <div n="October" type="month">
+                  <head>October's <hi>Obſervations.</hi>
+                  </head>
+                  <p>
+                     <hi>THis is the month wherein the two ſuperiour Planets</hi> Saturn <hi>and</hi> Jubi<g ref="char:EOLhyphen"/>ter <hi>make their first conjunction in the fiery ſign</hi> Leo; <hi>that this is not like to prove a month of great variance and diſunity but allſo we may expect henceforth</hi> Martial <hi>preparations in many Nations, and they will more certain<g ref="char:EOLhyphen"/>ly aſſure us of thoſe earthly troubles, b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> their two other Conjunctions, in next</hi> January <hi>and</hi> May, <hi>that I muſt needs conclude that the year</hi> 1683, <hi>and</hi> 1684, <hi>will make many men ſenſible of a great part of the ſad effects of thoſe three Conjunctions: a likelyhood of rain or hail, on or about, the</hi> 8, 9, 10, 15, 28 <hi>day.</hi>
+                  </p>
+                  <lg>
+                     <l>This month the two Superiours are conjoyn'd,</l>
+                     <l>And in the fiery Trigon are combin'd,</l>
+                     <l>Their meeting ſtill great changes doth foreſhew</l>
+                     <l>To happen in the Regious here below.</l>
+                  </lg>
+               </div>
+               <div n="November" type="month">
+                  <head>November's <hi>Obſervations</hi>
+                  </head>
+                  <p>
+                     <hi>THis month is likely to be more peaceable than the former, but I doubt their will happen diſunity and differences in Councills: the Commonalty are very apt now to deride ſome perſons in Authority: Women with Child now very apt to receive hurt, therefore they ought to have the greater care to pre<g ref="char:EOLhyphen"/>vent miſcarriages: high winds at Sea, and toſſing waves obſtructing the Seamen Cattle great and ſmall pretty ſubject to diſtempers &amp; ſickneſs: Magiſtrates op<g ref="char:EOLhyphen"/>poſe Profeſſors of Religion with very high words: dark, cloudy, if not rain, hail, or ſnow, on or about</hi> 2, <hi>the</hi> 10, 11, 24, 25, <hi>da<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi>
+                  </p>
+                  <lg>
+                     <l>Falſe cow'rdly <hi>Saturn</hi> backward ſlinks from <hi>Jove,</hi>
+                     </l>
+                     <l>
+                        <hi>Jove</hi> ſpies him, and ſoon backward to doth move;</l>
+                     <l>He runs with <hi>Lyons</hi> ſtrength; be ſeemes not weary,</l>
+                     <l>He over takes his foe in <hi>January.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="December" type="month">
+                  <pb n="12" facs="tcp:172448:9"/>
+                  <head>Decembers <hi>Obſervations.</hi>
+                  </head>
+                  <p>
+                     <hi>THe hearts of moſt Profeſſors are now full of zeal, and are apt to be diſ<g ref="char:EOLhyphen"/>quiated by ſome inferiour perſons: Magiſtrates now apt to deride Profeſſours for their waies and practices, and withall to uſe ſome kind of violence to disturb ſome ſort of meetings this month or the next: many ſuf<g ref="char:EOLhyphen"/>fer impriſonment: many theeveries happen or loſſes: ſea voages will be dan<g ref="char:EOLhyphen"/>gerous this month and the next: ſome ſhipwracks and ſkirmages on the wa<g ref="char:EOLhyphen"/>ters: the Planet</hi> Mars <hi>is now entered into</hi> Libra <hi>the oppoſite ſign to</hi> Aries (<hi>the aſcendent of</hi> England <hi>and</hi> France) <hi>and ſtaes there in no leſſe time than a<g ref="char:EOLhyphen"/>bout ſeaven months and a half; I wiſh this quarelſome Planet cauſe not tha: which is worſe then common variences and diſturbances in, or againſt</hi> England <hi>the next ſpring or ſummer</hi> France <hi>will be in the ſame danger: yet I doe not conclude that</hi> Mars <hi>alone ſo poſited is a ſufficient ground for us to fear a<g ref="char:EOLhyphen"/>ny ſuch thing, but he will then be more to be feared than in any other years, becauſe he will he aſſiſted no leſs then with three conjuuctions of</hi> Saturn <hi>and</hi> Jubiter <hi>in the fiery ſign</hi> Leo, <hi>after one of which alone uſuall follows Warrs, in or amongst Nations and Kingdoms; let us conſider then what great Warrs and terrible bloodſhedings are likely to follow Three: I fear ſad times are near at hand, with divers great changes and alterations, though divers igno<g ref="char:EOLhyphen"/>rant ſelfconſeited perſons may now be apt to deride me, but they may become a deriſion themſelves when my Predictions are fulfilled: we may expect ſome change of weather on or about the</hi> 21, 22, 23, <hi>and</hi> 29th <hi>day.</hi>
+                  </p>
+                  <lg>
+                     <l>When <hi>Phaebus</hi> bright his downward courſe hath ended,</l>
+                     <l>And to the winter <hi>Trophick</hi> hath deſended,</l>
+                     <l>
+                        <hi>Mars</hi> claimes high rule, ſtands at the door of bliſſe,</l>
+                     <l>As if he would <hi>Jov's</hi> real freind opreſſe,</l>
+                  </lg>
+                  <l>this moneth or the next.</l>
+               </div>
+            </div>
+            <argument>
+               <p>
+                  <hi>IT is known to my ſelf, and ſome others, that moſt things that I Predicted in my laſt years monthly obſervations, have hitherto been fulfilled, and where I failed, there I hit very near, but bitter envy and doting ignorance have ever been apt to deſpiſe and trample upon the works of prudence and experience, though ever ſo ponderous and conſideraete. However to all the reall lovers of Celeſtial Sciences I benevolently commit my Annuall and Monthly Obſerva<g ref="char:EOLhyphen"/>tions for the year</hi> 1682.</p>
+            </argument>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172448:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
